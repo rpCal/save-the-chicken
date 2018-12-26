@@ -1,0 +1,53 @@
+{
+    "grass-center": [17, 442, 16, 16],
+    "grass-dirty-top": [187, 425, 16, 16],
+    "grass-dirty-center": [187, 442, 16, 16],
+    "grass-dirty-bottom": [187, 459, 16, 16],
+    "road-black-top": [306, 374, 16, 16],
+    "road-black-center": [187, 323, 16, 16],
+    "road-black-bottom": [289, 374, 16, 16],
+    "road-black-line-top": [238, 340, 16, 16],
+    "road-black-line-bottom": [238, 323, 16, 16],
+
+    "car-green-left-1": [527, 272, 16, 16],
+    "car-green-left-2": [544, 272, 16, 16],
+    "car-green-left-3": [561, 272, 16, 16],
+    "car-green-left-4": [527, 289, 16, 16],
+    "car-green-left-5": [544, 289, 16, 16],
+    "car-green-left-6": [561, 289, 16, 16],
+
+    "car-green-right-1": [578, 272, 16, 16],
+    "car-green-right-2": [595, 272, 16, 16],
+    "car-green-right-3": [612, 272, 16, 16],
+    "car-green-right-4": [578, 289, 16, 16],
+    "car-green-right-5": [595, 289, 16, 16],
+    "car-green-right-6": [612, 289, 16, 16],
+
+    "car-gray-left-1": [527, 340, 16, 16],
+    "car-gray-left-2": [544, 340, 16, 16],
+    "car-gray-left-3": [561, 340, 16, 16],
+    "car-gray-left-4": [527, 357, 16, 16],
+    "car-gray-left-5": [544, 357, 16, 16],
+    "car-gray-left-6": [561, 357, 16, 16],
+
+    "car-gray-right-1": [578, 340, 16, 16],
+    "car-gray-right-2": [595, 340, 16, 16],
+    "car-gray-right-3": [612, 340, 16, 16],
+    "car-gray-right-4": [578, 357, 16, 16],
+    "car-gray-right-5": [595, 357, 16, 16],
+    "car-gray-right-6": [612, 357, 16, 16],
+
+    "car-orange-left-1": [527, 408, 16, 16],
+    "car-orange-left-2": [544, 408, 16, 16],
+    "car-orange-left-3": [561, 408, 16, 16],
+    "car-orange-left-4": [527, 425, 16, 16],
+    "car-orange-left-5": [544, 425, 16, 16],
+    "car-orange-left-6": [561, 425, 16, 16],
+
+    "car-orange-right-1": [578, 408, 16, 16],
+    "car-orange-right-2": [595, 408, 16, 16],
+    "car-orange-right-3": [612, 408, 16, 16],
+    "car-orange-right-4": [578, 425, 16, 16],
+    "car-orange-right-5": [595, 425, 16, 16],
+    "car-orange-right-6": [612, 425, 16, 16]
+}

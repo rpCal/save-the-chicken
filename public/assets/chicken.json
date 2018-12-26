@@ -1,0 +1,14 @@
+{
+    "chicken-top-1": [0, 0, 32, 32],
+    "chicken-top-2": [32, 0, 32, 32],
+    "chicken-top-3": [64, 0, 32, 32],
+    "chicken-right-1": [0, 32, 32, 32],
+    "chicken-right-2": [32, 32, 32, 32],
+    "chicken-right-3": [64, 32, 32, 32],
+    "chicken-bottom-1": [0, 64, 32, 32],
+    "chicken-bottom-2": [32, 64, 32, 32],
+    "chicken-bottom-3": [64, 64, 32, 32],
+    "chicken-left-1": [0, 96, 32, 32],
+    "chicken-left-2": [32, 96, 32, 32],
+    "chicken-left-3": [64, 96, 32, 32]
+}
